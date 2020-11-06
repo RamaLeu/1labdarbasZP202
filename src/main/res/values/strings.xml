@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">1 lab darbas</string>
+    <string name="login_username">Vardas</string>
+    <string name="login_password">Slaptazodis</string>
+    <string name="login_submit">Prisijungti</string>
+    <string name="login_register">Registruotis</string>
+    <string name="register_backtologin">Gryzti i prisijungima</string>
+    <string name="login_email">E. Pastas</string>
+    <string name="login_invalid_username">Klaidingai ivestas prisijungimo vardas arba slaptazodis</string>
+    <string name="login_invalid_registration">Klaidingai ivestas prisijungimo vardas, slaptazodis arba e. pastas</string>
+    //Made by Ramunas Bagdonas parasykit man 10 aciu
+</resources>
